@@ -45,3 +45,13 @@
 - Imputing Missing Class Values
 - Handling Imbalanced Classes
 
+4. [Handling Text](https://github.com/Himanshutiwari15/Data-Science-CookBook/tree/main/Handling%20Text)
+- Cleaning Text
+- Parsing and Cleaning HTML
+- Removing Punctuation
+- Tokenizing Text
+- Removing Stop Words
+- Stemming Words
+- Tagging Parts of Speech
+- Encoding Text as a Bag of Words
+- Weighting Word Importance
